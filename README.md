@@ -9,5 +9,8 @@ Google Foobar is a secret hiring process of Google. I was searching about Geomet
 * LEVEL 5: 1 question (Dodge the Lasers).
 
 <img src = "Screenshot 2023-07-11 101624.png">
+<img src = "Screenshot 2023-07-15 235926.png">
 
 These challenges can be completed in either Python or Java, each challenge is usually solved with a specific algorithm so a decent understanding of data structures and algorithms are recommended. I am more comfortable with Python, so all the solutions in this repo are written in Python.
+
+<img src = "Screenshot 2023-07-16 000046.png">
